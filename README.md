@@ -67,7 +67,7 @@ A few things to understand, a student has 100 points that he can divide among wa
 
 1. Clone the repository:
    ```bash
-   git clone https://github.com/<your-repo-url>.git
+   git clone https://github.com/AlperMumcular/nyuenrolls/tree/main.git
    cd nyu-enrolls
    ```
 
